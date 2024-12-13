@@ -27,10 +27,10 @@ class User:
         self.email = email
 
     def register(self):
-        pass  # логика регистрации
+        pass  # регистрации
 
     def login(self):
-        pass  # логика авторизации
+        pass  # авторизации
 
 
 class Booking:
